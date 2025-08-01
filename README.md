@@ -39,7 +39,7 @@
 Here are some of the mobile apps I’ve developed and published on the Google Play Store:
 
 <a href="https://play.google.com/store/apps/details?id=com.onesystem.masjid">
-  <img align="left" src="https://raw.githubusercontent.com/muhriddinbek-off/yaqin_masjid/main/assets/images/mosque_logo.png" width="100" height="100" style="margin-right:10px;" />
+  <img align="left" src="https://raw.githubusercontent.com/muhriddinbek-off/yaqin_masjid/main/assets/images/icon.png" width="100" height="100" style="margin-right:10px;" />
 </a>
 
 **Masjid Map**  
