@@ -42,9 +42,9 @@ Here are some of the mobile apps I’ve developed and published on the Google Pl
   <img align="left" src="https://raw.githubusercontent.com/muhriddinbek-off/for_apps_logo/main/app_icon.png" width="60" height="60" style="margin-right:10px;" />
 </a>
 
-**Masjid Map**  
+**Yaqin Masjid**  
 🕌 A Flutter-based app that shows nearby mosques and walking routes using Google Maps.  
-- [View on Google Play](https://play.google.com/store/apps/detailsid=com.onesystem.masjid&pcampaignid=web_share)
+- [View on Google Play](https://play.google.com/store/apps/details?id=com.onesystem.masjid&pcampaignid=web_share)
 
 
 
