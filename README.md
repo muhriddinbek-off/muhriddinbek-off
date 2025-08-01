@@ -39,7 +39,7 @@
 Here are some of the mobile apps I’ve developed and published on the Google Play Store:
 
 <a href="https://play.google.com/store/apps/details?id=com.onesystem.masjid">
-  <img src="https://play-lh.googleusercontent.com/vvXEjXgfE1UWi1Q6kEr6Yo_dhw78J9khzP0iXH-kD8YI5VXymJhEQlwsSCkLUyFhDq0=w480" width="100" alt="Masjid Map Logo" />
+  <img align="left" src="https://play-lh.googleusercontent.com/vvXEjXgfE1UWi1Q6kEr6Yo_dhw78J9khzP0iXH-kD8YI5VXymJhEQlwsSCkLUyFhDq0=w240-h480-rw" width="100" height="100" style="margin-right:10px;" />
 </a>
 
 **Masjid Map**  
