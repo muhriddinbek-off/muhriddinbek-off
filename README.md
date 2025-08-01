@@ -25,14 +25,14 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhriddinbek-off&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhriddinbek-off&theme=radical" width="48%" />
 </p>
 
 ---
 
 ## 📫 How to reach me:
 
-- Telegram: [@your_username](https://t.me/Muhriddinbek_off)
+- Telegram: [@Muhriddin](https://t.me/Muhriddinbek_off)
 - Email: muhriddinusanov7gmail.com
 
