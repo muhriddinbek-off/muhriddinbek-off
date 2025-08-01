@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhriddin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Developer;Mobile+%26+Web+Developer;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Developer;Mobile+Developer;Lifelong+Learner" />
 </p>
 
 ## 🙋‍♂️ About Me
@@ -35,5 +35,4 @@
 
 - Telegram: [@your_username](https://t.me/Muhriddinbek_off)
 - Email: muhriddinusanov7gmail.com
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
