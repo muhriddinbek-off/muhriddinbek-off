@@ -39,12 +39,12 @@
 Here are some of the mobile apps I’ve developed and published on the Google Play Store:
 
 <a href="https://play.google.com/store/apps/details?id=com.onesystem.masjid">
-  <img align="left" src="https://play-lh.googleusercontent.com/vvXEjXgfE1UWi1Q6kEr6Yo_dhw78J9khzP0iXH-kD8YI5VXymJhEQlwsSCkLUyFhDq0=w240-h480-rw" width="100" height="100" style="margin-right:10px;" />
+  <img align="left" src="https://play-lh.googleusercontent.com/vvXEjXgfE1UWi1Q6kEr6Yo_dhw78J9khzP0iXH-kD8YI5VXymJhEQlwsSCkLUyFhDq0=w480" width="100" height="100" style="margin-right:10px;" />
 </a>
 
 **Masjid Map**  
 🕌 A Flutter-based app that shows nearby mosques and walking routes using Google Maps.  
-🔗 [View on Play Store]
+🔗 [View on Play Store](https://play.google.com/store/apps/details?id=com.onesystem.masjid&pcampaignid=web_share)
 
 
 
