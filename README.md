@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Muhriddin 👋</h1>
 
-<!--
-**muhriddinbek-off/muhriddinbek-off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Flutter+Developer;Mobile+%26+Web+Developer;Lifelong+Learner" />
+</p>
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Flutter-based mobile apps**
+- 🌱 I’m currently learning **Clean Architecture, Firebase, Riverpod**
+- 🧠 I enjoy solving **real-world problems with code**
+- 💼 I’m open to freelance/remote opportunities
+- 🗂️ I share code & resources about **Flutter** and **Dart**
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" width="48%" />
+</p>
+
+---
+
+## 📫 How to reach me:
+
+- Telegram: [@your_username](https://t.me/Muhriddinbek_off)
+- Email: muhriddinusanov7gmail.com
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
