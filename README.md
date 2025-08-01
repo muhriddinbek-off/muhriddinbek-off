@@ -29,8 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhriddinbek-off&theme=radical" width="48%" />
 </p>
 
----
-
 ## 📫 How to reach me:
 
 - Telegram: [@Muhriddin](https://t.me/Muhriddinbek_off)
