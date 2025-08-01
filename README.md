@@ -26,11 +26,11 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muhriddinbek-off&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhriddinbek-off&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhriddinbek-off&layout=compact&theme=radical" width="48%" />
 </p>
 
 ## 📫 How to reach me:
 
 - Telegram: [@Muhriddin](https://t.me/Muhriddinbek_off)
-- Email: muhriddinusanov7gmail.com
+- Email: muhriddinusanov7@gmail.com
 
