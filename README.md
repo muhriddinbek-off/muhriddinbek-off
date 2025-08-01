@@ -38,8 +38,13 @@
 
 Here are some of the mobile apps I’ve developed and published on the Google Play Store:
 
-[- 🔗 [Yaqin Masjid](https://play.google.com/store/apps/details?id=com.yourcompany.masjidmap)  
-  🕌 Flutter app that shows nearby mosques and walking routes using Google Maps.](https://play.google.com/store/apps/details?id=com.onesystem.masjid&pcampaignid=web_share)
+<a href="https://play.google.com/store/apps/details?id=com.onesystem.masjid">
+  <img src="https://play-lh.googleusercontent.com/vvXEjXgfE1UWi1Q6kEr6Yo_dhw78J9khzP0iXH-kD8YI5VXymJhEQlwsSCkLUyFhDq0=w480" width="100" alt="Masjid Map Logo" />
+</a>
+
+**Masjid Map**  
+🕌 A Flutter-based app that shows nearby mosques and walking routes using Google Maps.  
+🔗 [View on Play Store]
 
 
 
