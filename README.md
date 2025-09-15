@@ -34,17 +34,6 @@
 - Telegram: [@Muhriddin](https://t.me/Muhriddinbek_off)
 - Email: muhriddinusanov7@gmail.com
 
-## 📱 My Published Apps
-
-Here are some of the mobile apps I’ve developed and published on the Google Play Store:
-
-<a href="https://play.google.com/store/apps/details?id=com.onesystem.masjid">
-  <img align="left" src="https://raw.githubusercontent.com/muhriddinbek-off/for_apps_logo/main/app_icon.png" width="60" height="60" style="margin-right:10px;" />
-</a>
-
-**Yaqin Masjid**  
-🕌 A Flutter-based app that shows nearby mosques and walking routes using Google Maps.  
-- [View on Google Play](https://play.google.com/store/apps/details?id=com.onesystem.masjid&pcampaignid=web_share)
 
 
 
